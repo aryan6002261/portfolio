@@ -17,7 +17,7 @@ A simple and responsive personal portfolio website built using HTML and CSS. Thi
 
 ```text
 portfolio/
-│── index.html
+│── portfolio.html
 │── styles.css
 └── README.md
 ```
