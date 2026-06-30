@@ -37,7 +37,7 @@ git clone https://github.com/aryan6002261/portfolio.git
 
 2. Open the project folder.
 
-3. Open `index.html` in your preferred web browser.
+3. Open `portfolio.html` in your preferred web browser.
 
 ## Future Improvements
 
